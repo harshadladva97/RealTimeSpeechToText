@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/mnt/0A24FA0424F9F315/Grovetech/Harshad/NextJS/speech-to-text-app/frontend/src/app/layout\":[\"static/media/463dafcda517f24f-s.p.woff\",\"static/media/4473ecc91f70f139-s.p.woff\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
