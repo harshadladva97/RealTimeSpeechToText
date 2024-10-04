@@ -63,6 +63,14 @@ pnpm run dev
 
 1. Press on "Start Recording" Button.
 
+![Screenshot from 2024-10-04 12-36-15](https://github.com/user-attachments/assets/e8a01ed2-29c6-443e-88a0-cff5bf8b7bb8)
+
+
 2. Once it will start recoding, please start speaking in microphone.
 
+![Screenshot from 2024-10-04 12-39-57](https://github.com/user-attachments/assets/30db6f87-d447-4047-9f92-8d2dccc507d6)
+
+
 3. To stop the recording. Please press on the "Stop Recording" button.
+
+![Screenshot from 2024-10-04 12-42-13](https://github.com/user-attachments/assets/19189b81-9c1f-4b50-99ff-d958f966261d)
