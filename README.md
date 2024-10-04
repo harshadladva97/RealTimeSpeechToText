@@ -37,7 +37,7 @@ python3 app.py
 1. Go to the `frontend` folder in the application.
 
 ```bash
-cd frontend`
+cd frontend
 ```
 
 2. Install npm packages.
