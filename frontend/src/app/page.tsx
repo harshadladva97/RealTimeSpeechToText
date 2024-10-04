@@ -61,8 +61,10 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">Real-time Speech Recognition</h1>
-      <div className="mb-4">
+      <h1 className="text-2xl text-center font-bold mb-4">
+        Real-time Speech Recognition
+      </h1>
+      <div className="mb-4 text-center">
         <button
           className={`px-4 py-2 rounded ${
             isRecording ? "bg-red-500" : "bg-green-500"
@@ -72,7 +74,7 @@ export default function Home() {
           {isRecording ? "Stop Recording" : "Start Recording"}
         </button>
       </div>
-      <div className="border p-4 h-64 overflow-auto">
+      <div className="border rounded-lg p-4 h-64 overflow-auto">
         <h2 className="text-xl font-semibold mb-2">Recognized Text:</h2>
         <p>{recognizedText}</p>
       </div>
